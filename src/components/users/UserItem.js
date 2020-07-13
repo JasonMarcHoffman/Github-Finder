@@ -16,7 +16,7 @@ const UserItem = ({ user: { avatar_url, login, html_url } }) => {
         <a
           href={html_url}
           className="btn btn-dark btn-sm my-1">More
-          </a>
+        </a>
       </div>
     </div>
   )
